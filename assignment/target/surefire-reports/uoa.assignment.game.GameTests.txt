@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: uoa.assignment.game.GameTests
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.096 s <<< FAILURE! - in uoa.assignment.game.GameTests
+checkKillingPlayer(uoa.assignment.game.GameTests)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: [47m[30mSomething is not right. It seems that monster can't kill the player...   Check Task 5.3[0mjava.lang.AssertionError
+	at uoa.assignment.game.GameTests.checkKillingPlayer(GameTests.java:604)
+
